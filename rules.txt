@@ -1,0 +1,1 @@
+# Right now this is just an empty file but it will be filled with all of Yahtzee's very important rules! :)
